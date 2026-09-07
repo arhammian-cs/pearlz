@@ -1,0 +1,7 @@
+sku,product_name,category,price_usd,unit,notes
+APL-500PRO,AquaPearl 500 Pro Purification Unit,unit,249.99,each,Includes one pre-installed Standard Replacement Filter
+APL-FLT-STD,Standard Replacement Filter Cartridge,filter,24.99,each,Rated for 6 months of typical use
+APL-FLT-PRO,Pro Replacement Filter Cartridge,filter,34.99,each,Rated for 9 months of typical use and higher sediment loads
+APL-INSTALL-SVC,Certified Technician Installation Service,service,79.00,each,Optional professional installation performed by a Pearlz Certified Technician
+APL-SHIP-EXP,Express Shipping Upgrade,shipping,19.99,each,"2-3 business day delivery, see Shipping Policy"
+APL-SVC-PLAN-1YR,Annual Service and Maintenance Plan,service_plan,89.00,per_year,Includes two scheduled maintenance visits per the Service and Maintenance Agreement
